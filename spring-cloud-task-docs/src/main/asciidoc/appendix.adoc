@@ -1,6 +1,0 @@
-
-[[appendix]]
-= Appendices
-
-include::appendix-task-repository-schema.adoc[]
-include::appendix-building-the-documentation.adoc[]
